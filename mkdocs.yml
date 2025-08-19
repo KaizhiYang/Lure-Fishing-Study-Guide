@@ -1,0 +1,47 @@
+site_name: Lure Fishing Study Guide
+site_url: http://LureFishingstudyguide.wiki
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+
+    - navigation.tracking
+
+    - navigation.tabs
+    - navigation.tabs.sticky
+
+    - navigation.path
+
+    - navigation.indexes
+
+    - navigation.top
+
+    - toc.follow
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: 简体中文
+      link: /zh/
+      lang: zh
+
+plugins:
+  - glightbox
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+nav:
+  - Home: home.md
+  - Guide:
+    - Before You Start: Guide/before_you_start.md
+    - Drop Shot: 
+      - Beginner: Guide/drop_shot/beginner.md
+  - Freshwater Fish: freshwater_fish.md
