@@ -10,6 +10,7 @@ theme:
   language: en
   icon:
     repo: fontawesome/brands/github-alt
+  custom_dir: overrides
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -27,6 +28,7 @@ theme:
 
     - search.suggest
     - search.highlight
+    - announce.dismiss
 
 extra:
   social:
