@@ -1,27 +1,39 @@
 site_name: Lure Fishing Study Guide
 site_url: http://LureFishingstudyguide.wiki
+site_author: Kaizhi Yang
+site_description: Lure Fishing Self-learning Site
+repo_url: https://github.com/KaizhiYang/Lure-Fishing-Study-Guide
+repo_name: Lure-Fishing-Study-Guide
+copyright: Copyright &copy; 2025 - Present Kaizhi Yang
 theme:
   name: material
   language: en
+  icon:
+    repo: fontawesome/brands/github-alt
   features:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-
     - navigation.tracking
-
     - navigation.tabs
     - navigation.tabs.sticky
-
     - navigation.path
-
     - navigation.indexes
-
     - navigation.top
+
+    - header.autohide
 
     - toc.follow
 
+    - search.suggest
+    - search.highlight
+
 extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/KaizhiYang/Lure-Fishing-Study-Guide
+      name: Lure Fishing Study Guide Github Page
+
   alternate:
     - name: English
       link: /en/
@@ -32,6 +44,7 @@ extra:
 
 plugins:
   - glightbox
+  - search
 
 markdown_extensions: 
   - attr_list
@@ -39,9 +52,16 @@ markdown_extensions:
   - pymdownx.blocks.caption
 
 nav:
-  - Home: home.md
+  - Home: index.md
   - Guide:
-    - Before You Start: Guide/before_you_start.md
+    - How to use this Guide: guide/how_to_use_the_guide.md
+    - Basics:
+      - Tie a Knot: guide/basics/tie_a_knot.md
+      - Rod: guide/basics/rod.md
+      - Reel: guide/basics/reel.md
+      - Line: guide/basics/line.md
+      - Hooks: guide/basics/hooks.md
+      - Lure & Bait: guide/basics/lure_and_bait.md
     - Drop Shot: 
-      - Beginner: Guide/drop_shot/beginner.md
+      - Beginner: guide/drop_shot/beginner.md
   - Freshwater Fish: freshwater_fish.md

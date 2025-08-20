@@ -22,6 +22,7 @@
     - Water Type (lake, river, sea)
     - Weather
     - Light Conditions
+    - Grass Condition
 
 ## Recommended Lure
 

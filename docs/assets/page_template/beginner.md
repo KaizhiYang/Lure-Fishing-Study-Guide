@@ -21,7 +21,8 @@
     - Water Temperature
     - Water Type (lake, river, sea)
     - Weather
-    - Light Conditions
+    - Light Condition
+    - Grass Condition
 
 ## Recommended Lure
 

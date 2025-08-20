@@ -5,7 +5,7 @@ This page provides an overview of the most popular freshwater gamefish in North 
 grouped by family, with images for easy identification.  
 
 ---
-
+___Note: All pictures are from [South Carolina Department of Natural Resources](https://www.dnr.sc.gov/freshwater.html)___
 ##__Black Bass__
 <div class="grid cards" markdown>
 -   <figure markdown>
