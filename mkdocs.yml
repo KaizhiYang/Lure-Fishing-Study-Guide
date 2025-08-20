@@ -4,7 +4,7 @@ site_author: Kaizhi Yang
 site_description: Lure Fishing Self-learning Site
 repo_url: https://github.com/KaizhiYang/Lure-Fishing-Study-Guide
 repo_name: Lure-Fishing-Study-Guide
-copyright: Copyright &copy; 2025 - Present Kaizhi Yang
+copyright: Copyright &copy; 2025 - present Kaizhi Yang
 theme:
   name: material
   language: en
