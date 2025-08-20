@@ -19,6 +19,8 @@
     - Season
     - Air Temperature
     - Water Temperature
+    - Water Depth
+    - Water Visibility
     - Water Type (lake, river, sea)
     - Weather
     - Light Condition
