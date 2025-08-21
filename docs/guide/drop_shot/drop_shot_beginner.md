@@ -59,7 +59,7 @@ to learn how to rig a drop shot.
     - **Gear Ratio**: 5.2:1 - 6.2:1
 - **Line** – 6-12 lb fluorocarbon or 6-10 lb braided line with fluorocarbon leader; low visibility  
 - **Hook** – 1/0 to 3/0 drop shot hook or octopus hook (not the circle octopus hook)
-**Weight** – 3.5g to 7g cylindrical (prefered) or teardrop weight, depending on your rod's lure weight range. The lighter, the better.
+- **Weight** – 3.5g to 7g cylindrical (prefered) or teardrop weight, depending on your rod's lure weight range. The lighter, the better.
 
 
 ## Best Conditions
