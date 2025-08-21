@@ -81,7 +81,7 @@ to learn how to rig a drop shot.
 
 ## How to Fish
 
-If you wish to learn through video, please watch following video in order:
+If you wish to learn through videos, please watch following videos in order:
 
 1. :fontawesome-brands-youtube:{ .youtube } [Drop Shot Intro](https://www.youtube.com/watch?v=gKhBOSKKncg)
 2. :fontawesome-brands-youtube:{ .youtube } [Drop Shot Advanced 1](https://www.youtube.com/watch?v=0RKM5SKW9fQ)
