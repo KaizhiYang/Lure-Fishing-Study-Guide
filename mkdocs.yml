@@ -47,6 +47,8 @@ extra:
 plugins:
   - glightbox
   - search
+  - open-in-new-tab:
+      add_icon: false
 
 markdown_extensions: 
   - attr_list
