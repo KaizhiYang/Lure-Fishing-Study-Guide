@@ -51,7 +51,7 @@ Drop Shot is a versatile finesse fishing technique where the weight is tied at t
 Click :fontawesome-brands-youtube:{ .youtube } [here](https://www.youtube.com/watch?v=RMht6raod60) 
 to learn how to rig a drop shot.
 
-## Rod & Reel & Line & Hook
+## Rod & Reel & Line & Hook & Weight
 - **Rod** – 6'6" to 7'2" spinning rod  
     - **Power**: Light or Medium-Light  
     - **Action**: Fast or Extra-Fast
@@ -59,6 +59,7 @@ to learn how to rig a drop shot.
     - **Gear Ratio**: 5.2:1 - 6.2:1
 - **Line** – 6-12 lb fluorocarbon or 6-10 lb braided line with fluorocarbon leader; low visibility  
 - **Hook** – 1/0 to 3/0 drop shot hook or octopus hook (not the circle octopus hook)
+**Weight** – 3.5g to 7g cylindrical (prefered) or teardrop weight, depending on your rod's lure weight range. The lighter, the better.
 
 
 ## Best Conditions
