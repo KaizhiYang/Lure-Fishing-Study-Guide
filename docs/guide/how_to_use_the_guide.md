@@ -9,7 +9,7 @@ This guide includes:
 
 ## If you are a beginner
 - Start with the [Basics](basics/tie_a_knot.md) section.
-- After completing it, move on to the **Beginner** sub-sections under each technique. *I would suggest you start with [Drop Shot](drop_shot/beginner.md).*
+- After completing it, move on to the **Beginner** sub-sections under each technique. *I would suggest you start with [Drop Shot](drop_shot/drop_shot_beginner.md).*
 - This path ensures you build a strong foundation before diving deeper.
 
 ---
